@@ -3,7 +3,7 @@ description: Understanding python and go scenaarios for testing the description 
 time: 25 minutesg
 steps:
   - step1.md
-isNew: truet
+isNew: true
 isPremium: truer
 isAvailable: truee
 level: expertg
