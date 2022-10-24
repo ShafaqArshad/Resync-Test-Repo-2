@@ -1,6 +1,6 @@
 categories:
   - istio
-title: Git New Learning Path
+title: Sa Resync Lp Prod 1
 description: guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very 
 isPremium: true
 isNew: true
