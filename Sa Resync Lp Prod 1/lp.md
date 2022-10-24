@@ -1,8 +1,7 @@
 categories:
   - istio
 title: Sa Resync Lp Prod 1
-description: guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 
-description: guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1 Sa Resync Test 1  
+description: guykgyut yuguhguhgh jgyugvu ygyug vyug yuhggvfyt gfytrftyfy trfty rrdytrtyrytrf tty very very very very
 isPremium: true
 isNew: true
 isAvailable: true
