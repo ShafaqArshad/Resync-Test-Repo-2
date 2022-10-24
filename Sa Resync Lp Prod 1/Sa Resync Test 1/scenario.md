@@ -5,5 +5,5 @@ steps:
   - step1.md
 isNew: true
 isPremium: true
-isAvailable: truee
+isAvailable: true
 level: expert
